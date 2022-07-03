@@ -1,2 +1,2 @@
 # AtomViewer
-Silly little project i made just for fun to learn our highschool chemistry better
+Silly little project i made just for fun to learn my highschool chemistry better
