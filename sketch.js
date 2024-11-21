@@ -1412,7 +1412,7 @@ function draw() {
 		fill('black');
 		if(!isPersian)
 		{
-			text("this app was made by Daniel pishyar in 2022 for making chemistery easyer to learn\n\n daniel - producer and programmer",trueWid - 280,trueHei - 360,240);
+			text("this app was made by Daniel pishyar in 2022 for making chemistery easier to learn\n\n daniel - producer and programmer",trueWid - 280,trueHei - 360,240);
 		}
 		else
 		{
