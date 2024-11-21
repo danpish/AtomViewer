@@ -1,0 +1,9 @@
+fixes:
+fix some element names
+
+add:
+add spectrum for more chemicals
+*too time consuming*add middle part chemicals
+*too time consuming*add protons noutrons(less piorty)
+add reactive meter
+
